@@ -5,3 +5,20 @@
 .good{
   color: green;
 }
+
+.middle {
+  display: inline-block;
+}
+
+img {
+  max-width: 100px;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
+body {
+  text-align: center;
+}

@@ -4,26 +4,21 @@ export default class SideBar extends React.Component {
 
   constructor(props) {
     super(props)
-    this.handleChange = this.handleChange.bind(this);
-    this.state = {
-      password: ''
-    }
+    this.handleClickMenu = this.handleClickMenu.bind(this)
   }
 
-
-  handleChange(event){
-    this.setState({ password: event.target.value })
+  handleClickMenu(event) {
+    this.props.getSelection(event.target.textContent);
   }
 
   render(){
       return <div>
         <h1>MENU</h1>
         <ul>
-          <li>Profile</li>
-          <li>Skills</li>
-          <li>Experience</li>
-          <li>Education</li>
-          <li>Contact Me</li>
+          <li className="selection" onClick={this.handleClickMenu}>Profile</li>
+          <li className="selection" onClick={this.handleClickMenu}>Skills</li>
+          <li className="selection" onClick={this.handleClickMenu}>Timeline</li>
+          <li className="selection" onClick={this.handleClickMenu}>Contact Me</li>
         </ul>
       </div>
   }
