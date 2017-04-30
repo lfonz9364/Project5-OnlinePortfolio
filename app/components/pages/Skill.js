@@ -1,6 +1,8 @@
 import React from 'react'
 import '../public/Global.css'
-import Timeline from '../public/Timeline'
+import ProgrammingSkill from '../skills/ProgrammingSkill'
+import Software from '../skills/Software'
+import Tool from '../skills/Tool'
 
 export default class Experience extends React.Component {
 
@@ -10,7 +12,9 @@ export default class Experience extends React.Component {
 
   render(){
       return <div>
-        <Timeline />
+        <ProgrammingSkill />
+        <Software />
+        <Tool />
       </div>
   }
 }

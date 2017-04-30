@@ -1,10 +1,9 @@
 import React from 'react'
 import SideBar from './public/SideBar'
 import Profile from './pages/Profile'
-import Experience from './pages/Experience'
 import Skill from './pages/Skill'
 import ContactMe from './pages/ContactMe'
-import Timeline from './public/Timeline'
+import Timeline from './pages/Timeline'
 
 export default class App extends React.Component {
 
@@ -37,7 +36,7 @@ export default class App extends React.Component {
         <SideBar getSelection={this.getSelection} />
         <Timeline />
       </div>
-    } else if(this.state.page === 'ContactMe') {
+    } else if(this.state.page === 'Contact Me') {
       return <div>
         <SideBar getSelection={this.getSelection} />
         <ContactMe />
