@@ -8,7 +8,7 @@ export default class PetraChristianUniversity extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Petra Christian University</h1>
         <h1>July 2005 - Oct 2009</h1>
         <h2>Bachelor of Economy</h2>

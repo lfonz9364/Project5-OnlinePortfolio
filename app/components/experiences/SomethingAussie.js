@@ -8,7 +8,7 @@ export default class SomethingAussie extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Something Aussie</h1>
         <h1>August 2012 - August 2013</h1>
         <h2>Position : Office, Warehouse and Network Admin</h2>

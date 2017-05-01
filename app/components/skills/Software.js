@@ -8,7 +8,7 @@ export default class Software extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="skill">
         <h1>Software</h1>
         <ul>
           <li><img src="/app/images/postgresql.png" /></li>

@@ -8,7 +8,7 @@ export default class AquaStar extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Aqua Star</h1>
         <h1>July 2016 - February 2017</h1>
         <h2>Position : Warehouse Packing Team Leader</h2>

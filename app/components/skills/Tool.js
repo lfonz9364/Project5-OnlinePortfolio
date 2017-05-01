@@ -8,7 +8,7 @@ export default class Tool extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="skill">
         <h1>Tools</h1>
         <ul>
           <li><img src="/app/images/cli.png" /></li>

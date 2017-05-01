@@ -8,7 +8,7 @@ export default class Experience extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="contact" >
         <h1>Phone</h1>
         <p>+61 421 766 515</p>
         <h1>Email</h1>

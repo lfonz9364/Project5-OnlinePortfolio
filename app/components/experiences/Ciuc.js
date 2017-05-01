@@ -8,7 +8,7 @@ export default class Ciuc extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Caulfield Indonesian Uniting Church</h1>
         <h1>September 2016 - Current</h1>
         <h2>Position : Volunteer</h2>

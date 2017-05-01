@@ -8,7 +8,7 @@ export default class GeneralAssembly extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>General Assembly</h1>
         <h1>February 2017 - May 2017</h1>
         <h2>Web Development Immersive</h2>

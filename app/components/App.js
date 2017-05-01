@@ -11,7 +11,7 @@ export default class App extends React.Component {
     super(props)
     this.getSelection = this.getSelection.bind(this)
     this.state = {
-      page: ''
+      page: 'Profile'
     }
   }
 
@@ -40,10 +40,6 @@ export default class App extends React.Component {
       return <div>
         <SideBar getSelection={this.getSelection} />
         <ContactMe />
-      </div>
-    } else {
-      return <div>
-        <SideBar getSelection={this.getSelection}/>
       </div>
     }
   }

@@ -8,8 +8,7 @@ export default class Experience extends React.Component {
   }
 
   render(){
-      return <div>
-        <h1>Profile</h1>
+      return <div className="profile">
         <img src="/app/images/cartoonOne.jpg" />
         <h2>"Web Development is about solving a problem in many different ways"</h2>
         <span>Alfons Caroles</span>

@@ -8,7 +8,7 @@ export default class ProgrammingSkill extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="skill">
         <h1>Programming Language</h1>
         <ul>
           <li><img src="/app/images/html-css-js-logos.png" /></li>

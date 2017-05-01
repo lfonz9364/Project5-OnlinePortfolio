@@ -8,7 +8,7 @@ export default class GabeeProduct extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Gabee Product</h1>
         <h1>September 2015 - December 2015</h1>
         <h2>Position : Business Analyst Intern</h2>

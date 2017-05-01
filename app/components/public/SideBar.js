@@ -12,7 +12,7 @@ export default class SideBar extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="menu">
         <h1>MENU</h1>
         <ul>
           <li className="selection" onClick={this.handleClickMenu}>Profile</li>

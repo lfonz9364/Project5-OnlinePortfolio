@@ -27,7 +27,7 @@ const config = {
       use: ['style-loader', 'css-loader']
     }] //rules for translation
   },
-
+  
   devServer: {
     port: 4000
   }

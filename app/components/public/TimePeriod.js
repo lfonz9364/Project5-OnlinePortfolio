@@ -22,7 +22,7 @@ export default class Timeline extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="timeperiod">
         <input type="checkbox" value="2017" onChange={this.handleChange} />
         <label>2017</label>
 

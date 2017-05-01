@@ -8,7 +8,7 @@ export default class JunctionNewsagency extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Junction Newsagency</h1>
         <h1>September 2013 - July 2016</h1>
         <h2>Position : Newspaper Delivery Driver</h2>

@@ -19,8 +19,7 @@ export default class Timeline extends React.Component {
   }
 
   render(){
-    console.log(this.state.period);
-      return <div>
+      return <div className="timeline">
         <TimePeriod getYear={this.getYear} />
         <Education period={this.state.period} />
         <Experience period={this.state.period} />

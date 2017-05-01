@@ -8,7 +8,7 @@ export default class MonashUniversity extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>Monash University</h1>
         <h1>July 2012 - Oct 2014</h1>
         <h2>Master of Business Information Systems Professional</h2>

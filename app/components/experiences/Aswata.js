@@ -8,7 +8,7 @@ export default class Aswata extends React.Component {
   }
 
   render(){
-      return <div>
+      return <div className="components">
         <h1>PT. Asuransi Wahana Tata</h1>
         <h1>January 2010 - December 2011</h1>
         <h2>Position : Account Officer</h2>
