@@ -1,7 +1,7 @@
 # Project 5: Online Portfolio
 
 ### User Story
-Employer and recruiter would like to find an online presence of a potential employee, especially in IT industry.
+Employers and recruiters would like to find an online presence of a potential employee, especially in IT industry.
 
 
 ### Technology Used
@@ -15,7 +15,7 @@ I choose to follow the best practice of doing the documentation and planning at 
 
 React is a single page application with capability to redraw the same page display rather than just pointing to another page.
 
-React consist of many folder on its development but only require html, css and Build Js files to publish.
+React consist of many folder on its development but only require html, css and built bundle.Js files to publish.
 
 ### Unsolved Problems
 
