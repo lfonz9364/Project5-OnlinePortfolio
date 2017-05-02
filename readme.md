@@ -1,42 +1,37 @@
-# Project 2: Busy Bee
+# Project 5: Online Portfolio
 
 ### User Story
-A lot of people nowadays have many ideas but prevented to create it by expertise limitation. Therefore, a website to connect freelance developers with potential clients would be a way to solve this problem and creating new market for web developers as well.
+Employer and recruiter would like to find an online presence of a potential employee, especially in IT industry.
 
 
 ### Technology Used
-* Ruby
-* Sinatra
-* Postgresql
-* Pony
-* ActiveRecord
-* Bcrypt
+* React
 
 ### Approach
 
-I choose to follow the best practice of doing the documentation and planning at the beginning . First of all, I tried to create a schema and wireframes to aid in development. Second, the database schema then translated into Postgresql tables with relationships notated in ActiveRecord. Third, the coding process was divided into four parts such as developer, requester, jobs and feedbacks. Last but not least, the features for each part also added during development to make it more user friendly.
+I choose to follow the best practice of doing the documentation and planning at the beginning . First of all, I created a wireframe to aid in development designing components and pages. Next, the wireframe then translated into components of React. Then, I developed necessary functions to gave user a selections of view. Last but not least, I added a feature where user could check for yearly educations and experiences to demonstrate my time management development.
 
 ### What I Learned
 
-Ruby Sinatra could create cleaner web address but it also prone to bugs.
+React is a single page application with capability to redraw the same page display rather than just pointing to another page.
+
+React consist of many folder on its development but only require html, css and Build Js files to publish.
 
 ### Unsolved Problems
 
 The current version have several not yet solved problems which are:
-* Mobile friendliness
 * CSS styling
+* Code Refactoring
 
 
 ### To-Do-List
-
-* Media adaptability
+* Make Code more efficient
 * Further styling
 
 ### Future Features
 
-* Project reminder
-* Payment page
+* Summary page as lightbox
+* Better Timeline style
 
 [visit page](https://lfonz9364.github.io/Project5-OnlinePortfolio/)
-![alt tag](https://github.com/lfonz9364/project-2/blob/master/documentation/Database%20Schema%20busy_bee.jpg)
-![alt tag](https://github.com/lfonz9364/project-2/blob/master/documentation/BusyBeeFlowchart.jpg)
+![alt tag](https://github.com/lfonz9364/Project5-OnlinePortfolio/blob/master/images/Wireframe.JPG)
