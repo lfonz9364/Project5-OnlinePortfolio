@@ -33,5 +33,6 @@ The current version have several not yet solved problems which are:
 * Summary page as lightbox
 * Better Timeline style
 
-[visit page](https://lfonz9364.github.io/Project5-OnlinePortfolio/)
 ![alt tag](https://github.com/lfonz9364/Project5-OnlinePortfolio/blob/master/images/Wireframe.JPG)
+
+[visit page](https://lfonz9364.github.io/Project5-OnlinePortfolio/)
