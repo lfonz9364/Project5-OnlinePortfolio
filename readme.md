@@ -6,6 +6,9 @@ Employers and recruiters would like to find an online presence of a potential em
 
 ### Technology Used
 * React
+* Webpack
+* Npm
+* Babel
 
 ### Approach
 
@@ -34,8 +37,6 @@ The current version have several not yet solved problems which are:
 * Summary page as lightbox
 * Advanced e-mail system
 * Better Timeline style
-
-![alt tag](https://github.com/lfonz9364/Project5-OnlinePortfolio/blob/master/images/Wireframe.JPG)
 
 [visit page](https://lfonz9364.github.io/Project5-OnlinePortfolio/)
 [Development Version](https://github.com/lfonz9364/OnlinePortfolio)
