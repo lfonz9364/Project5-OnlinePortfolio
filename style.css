@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-image: url(/images/background.jpg);
+  background-image: url("./images/background.jpg");
   background-attachment: fixed;
   font-family: 'Montserrat', sans-serif;
   color: white;
@@ -80,6 +80,7 @@ input[type=checkbox] {
   width: 20%;
   border-radius: 1em;
   border: 1px double white;
+  padding: 10px;
 }
 
 .selection:hover {
