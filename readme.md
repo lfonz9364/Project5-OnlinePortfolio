@@ -20,19 +20,22 @@ React consist of many folder on its development but only require html, css and b
 ### Unsolved Problems
 
 The current version have several not yet solved problems which are:
-* CSS styling
 * Code Refactoring
+* Client-side e-mail system
 
 
 ### To-Do-List
 * Make Code more efficient
 * Further styling
+* Server-side e-mail system
 
 ### Future Features
 
 * Summary page as lightbox
+* Advanced e-mail system
 * Better Timeline style
 
 ![alt tag](https://github.com/lfonz9364/Project5-OnlinePortfolio/blob/master/images/Wireframe.JPG)
 
 [visit page](https://lfonz9364.github.io/Project5-OnlinePortfolio/)
+[Development Version](https://github.com/lfonz9364/OnlinePortfolio)
